@@ -1,5 +1,5 @@
 function greet(): string {
-  const branch = "master";
+  const branch = "updated master";
   return `Hello from ${branch} branch!`;
 }
 
