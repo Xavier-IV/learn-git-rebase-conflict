@@ -1,0 +1,14 @@
+{
+  "name": "learn-git-rebase-conflict",
+  "version": "1.0.0",
+  "description": "Demo project for learning git rebase conflict resolution",
+  "main": "demo.ts",
+  "scripts": {
+    "dev": "ts-node demo.ts",
+    "build": "tsc demo.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
